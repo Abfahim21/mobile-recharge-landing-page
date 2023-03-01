@@ -26,11 +26,10 @@ a.nav-link {
     justify-content: space-around;
     align-items: center;
     padding-top: 164px;
-    padding-bottom: 341px;
+    padding-bottom: 308px;
     background-color: rgb(20, 22, 46);
     background-image: url("../images/Picture.png");
     background-repeat: no-repeat;
-    background-position: center;
     background-size: 550px 460px;
     background-position: 580px 220px;
 }
