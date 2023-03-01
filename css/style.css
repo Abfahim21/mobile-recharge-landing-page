@@ -38,3 +38,6 @@ a.nav-link {
 nav.navbar.navbar-expand-lg.navbar-light {
     background-color: rgb(20, 22, 46);
 }
+span.register {
+    color: rgba(68, 97, 242, 1);
+}
