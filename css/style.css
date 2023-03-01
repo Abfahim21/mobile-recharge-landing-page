@@ -4,7 +4,6 @@
     box-sizing: border-box;
     font-family: Montserrat, sans-serif;
 }
-
 a.nav-link {
     font-size: 22px;
 }
@@ -43,4 +42,11 @@ span.register {
 input::placeholder {
     color: #999; 
     font-size: 14px; 
-  }
+}
+button.btn.btn-primary {
+    width: 100%;
+    color: white;
+    background-color: #4461F2;
+    border-radius: 10px;
+    box-shadow: 0px 12px 21px 4px rgba(68, 97, 242, 0.15);
+}
