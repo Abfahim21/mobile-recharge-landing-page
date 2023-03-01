@@ -41,3 +41,7 @@ nav.navbar.navbar-expand-lg.navbar-light {
 span.register {
     color: rgba(68, 97, 242, 1);
 }
+input::placeholder {
+    color: #999; 
+    font-size: 14px; 
+  }
