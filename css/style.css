@@ -24,8 +24,8 @@ a.nav-link {
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    padding-top: 164px;
-    padding-bottom: 308px;
+    padding-top: 150px;
+    padding-bottom: 252px;
     background-color: rgb(20, 22, 46);
     background-image: url("../images/Picture.png");
     background-repeat: no-repeat;
